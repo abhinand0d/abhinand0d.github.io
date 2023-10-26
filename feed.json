@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "abhinandd.me",
+    "description": "",
+    "home_page_url": "https://abhinandd.me",
+    "feed_url": "https://abhinandd.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abhinand Dhandapani"
+    },
+    "items": [
+    ]
+}
